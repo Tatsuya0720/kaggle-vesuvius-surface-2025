@@ -13,9 +13,15 @@
         - InstantNGP
             - positionalEncoding
             - HashEncoding
-
-- Encoderは3DCNNで作成中
+    - Encoder
+            - ResNet系(3DCNN)
 
 ## 補足
 - ニューラル場を利用した3次元形状の作成だと下記のような形（学習形状を減らして上手くいったもの）
 ![alt text](image.png)
+
+## ニューラル場について
+- DeepSDF
+    - https://github.com/facebookresearch/DeepSDF
+- SIREN
+    - https://github.com/vsitzmann/siren
