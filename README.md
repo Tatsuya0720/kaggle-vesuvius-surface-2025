@@ -14,7 +14,7 @@
             - positionalEncoding
             - HashEncoding
     - Encoder
-            - ResNet系(3DCNN)
+        - ResNet系(3DCNN)
 
 ## 補足
 - ニューラル場を利用した3次元形状の作成だと下記のような形（学習形状を減らして上手くいったもの）
